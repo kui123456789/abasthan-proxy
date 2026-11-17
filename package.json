@@ -1,0 +1,12 @@
+{
+  "description": "Abasthan proxy node: Xray VLESS+WS behind a Node wrapper that serves /health and forwards WS upgrades",
+  "engines": {
+    "node": ">=18"
+  },
+  "main": "server.js",
+  "name": "abasthan-proxy",
+  "scripts": {
+    "start": "bash start.sh"
+  },
+  "version": "1.0.0"
+}
